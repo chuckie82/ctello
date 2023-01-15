@@ -27,7 +27,12 @@ This project was developed and tested with the versions listed below.
 
 Clone the repository:
 ```
-git clone git@github.com:carlospzlz/ctello.git
+git clone https://github.com/chuckie82/ctello.git
+```
+
+Get dependencies (Mac):
+```
+brew install cmake opencv spdlog
 ```
 
 Build it:
